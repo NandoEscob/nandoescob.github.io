@@ -5,7 +5,10 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![This is an image](https://static.wixstatic.com/media/babe8d_6612dc8ed9cf4ae0b9decd4d005f4456~mv2.jpg/v1/fill/w_855,h_561,al_c,q_85,enc_auto/babe8d_6612dc8ed9cf4ae0b9decd4d005f4456~mv2.jpg)
+
+Vineyards Sustainably Farmed Vineyards On Columbia Valley'S Royal Slope &amp; Wahluke Slope. (n.d.). Lawrence Vineyards. photograph, Gård Walla Walla 43 E. Main St. Walla Walla, WA 99362. Retrieved from https://www.lawrencevineyards.com/vineyards. 
+
 
 ## 5 Wineries located in Walla Walla WA
 
