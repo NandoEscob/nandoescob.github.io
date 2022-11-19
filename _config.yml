@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
+  - {file: "oh-look-its-wine-o-clock-1.jpg", title: "Home Change", icon: home}
   - {file: "README.md", title: "location of winery"}
   
 
