@@ -1,4 +1,6 @@
 title: "Washington Wineries"
+
+![Winery](Oh-look-its-wine-o-clock-1.jpg)
 author: "Fernando Escobar"
 description: "IT100 group project"
 permalink: /:title/
@@ -17,7 +19,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "contributors", icon: people}
+  - {file: "README.md", title: "contributors"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:geovani.escobgar1@seattlecolleges.edu"}
