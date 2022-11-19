@@ -17,8 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "location of winery"}
-  
+  - {file: "README.md", title: "WALLA WALLA"}
+  - {file: "Seattle.md", tittle: "Seattle"}
+  - {file: "Woodenville", titlle: "woodenville"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:geovani.escobgar1@seattlecolleges.edu"}
