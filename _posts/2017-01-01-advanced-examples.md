@@ -9,31 +9,31 @@ categories: media
 
 ## 5 Wineries located in Walla Walla WA
 
-Foundry Vineyards
+[Foundry Vineyards](https://www.foundryvineyards.com/book-online)
 
 * 1111 Abadie St, Walla Walla, WA 99362
 
 * (509) 529-0736
 
-Seven Hills Winery
+[Seven Hills Winery](https://www.sevenhillswinery.com)
 
 * 212 N 3rd Ave, Walla Walla, WA 99362
 
 (509) 529-7198
 
-El Corazon Winery
+[El Corazon Winery](https://www.elcorazonwinery.com/)
 
 * 37 S Palouse St, Walla Walla, WA 99362
 
 * (509) 520-4408
 
-Gard Vintners
+[Gard Vintners ](https://www.gardwine.com/)
 
 * 43 E Main St, Walla Walla, WA 99362
 
 * (509) 524-9099
 
-The Walls Vineyards
+[The Walls Vineyards](https://www.thewallswines.com/)
 
 * 1015 W Pine St, Walla Walla, WA 99362
 
