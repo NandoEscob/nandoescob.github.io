@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Walla Walla"
 mathjax: true
 layout: post
 categories: media
