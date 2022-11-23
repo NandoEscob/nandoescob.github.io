@@ -1,19 +1,19 @@
 ---
-title: "**CONTRIBUTERS**"
+title: "CONTRIBUTERS"
 permalink: "/about/"
 layout: page
 ---
 
 ## Khaina Mariella Simbre
-- little entry about yourself.
 
 
+## Fernando Escobar
 
 
 
 
 ## Iman Dubad
-- little entry about yourself.
+
 
 
 ## objective to project
